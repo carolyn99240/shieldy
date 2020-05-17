@@ -10,9 +10,9 @@ services:
       MONGO_SHIELDY_DB: shieldyDB
       MONGO_SHIELDY_USERNAME: shieldyDBuser
       MONGO_SHIELDY_PASSWORD: shieldyDBpassword
-      TOKEN: 111111111:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      TOKEN: 964258004:AAFtVxDZW6msgnehf5vy7DHhND4YxOlBHpE
       MONGO: mongodb://shieldyDBuser:shieldyDBpassword@mongo:27017/shieldyDB
-      ADMIN: 111111111
+      ADMIN: 667279640
     depends_on:
       - mongo
   mongo:
